@@ -1,0 +1,33 @@
+.conteneur {
+    border: 1px solid;
+    border-color: #ddd;
+    background-color: #ddd;
+    width: 900px;
+    height: 600px;
+    margin: auto;
+
+}
+
+.en-tête {
+
+    background-color: #ff3d23;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-right: 55px;
+    margin-left: 20px;
+
+
+}
+
+img {
+    height: 545px;
+    width: 900px;
+}
